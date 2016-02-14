@@ -1,0 +1,6 @@
+phalcon-lamp:
+  image: igorferreira/docker-phalcon-lamp
+  ports:
+    - 80:80
+    - 3306:3306
+
